@@ -63,8 +63,6 @@ Git · GitHub · VS Code · Postman
 - Integrated location-aware resource discovery to recommend nearby shelters, NGOs, and legal aid services using clustering techniques.
 - Built a Flutter–Flask architecture to connect mobile functionality with backend services.
 
-- [View the original team repository](https://github.com/dhruthirudrangi/AIML.git)
-
 ### 🌐 College Research Project Management System
 
 **React.js · Node.js · Express.js · MySQL · Nodemailer**
@@ -80,8 +78,6 @@ Git · GitHub · VS Code · Postman
 - Developed a multimodal affect analysis system using facial expressions, speech, gaze, and posture cues for real-time classroom monitoring.
 - Integrated EfficientNet-B0, Wav2Vec2, and ResNet18 models with weighted multimodal fusion.
 - Built an analytics dashboard to present insights from multimodal affect analysis.
-
-- [View the original team repository](https://github.com/AkshathaN17/MAR.git)
 
 ---
 
