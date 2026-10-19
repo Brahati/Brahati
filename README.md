@@ -79,6 +79,8 @@ Git · GitHub · VS Code · Postman
 - Integrated EfficientNet-B0, Wav2Vec2, and ResNet18 models with weighted multimodal fusion.
 - Built an analytics dashboard to present insights from multimodal affect analysis.
 
+- [View the original team repository](https://github.com/AkshathaN17/MAR.git)
+
 ---
 
 ## 🏆 Achievements
