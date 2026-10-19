@@ -63,6 +63,8 @@ Git · GitHub · VS Code · Postman
 - Integrated location-aware resource discovery to recommend nearby shelters, NGOs, and legal aid services using clustering techniques.
 - Built a Flutter–Flask architecture to connect mobile functionality with backend services.
 
+- [View the original team repository](https://github.com/dhruthirudrangi/AIML.git)
+
 ### 🌐 College Research Project Management System
 
 **React.js · Node.js · Express.js · MySQL · Nodemailer**
